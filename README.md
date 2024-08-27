@@ -20,3 +20,7 @@ Run the script from your terminal using python book_scraper.py (replace book_scr
 
 Output:
 The script will print a confirmation message upon successful scraping and saving the data as books12.csv.
+
+![View the Python Script](scrape%20books%201.py)
+![View the CSV File](books12.csv)
+
